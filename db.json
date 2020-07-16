@@ -9,5 +9,25 @@
     {"id": 3,
     "name": "Dobby",
     "nick": "Dobby"}
+    ],
+  "users":[
+    {"id": 1,
+    "name": "Omar",
+    "age": 22},
+    {"id": 2,
+    "name": "Valeria",
+    "age": 21},
+    {"id": 3,
+    "name": "Dobby",
+    "age": 7},
+    {"id": 4,
+    "name": "Giorgia",
+    "age": 21},
+    {"id": 5,
+    "name": "Deborah",
+    "age": 23},
+    {"id": 6,
+    "name": "Roberto",
+    "age": 28}
     ]
 }
