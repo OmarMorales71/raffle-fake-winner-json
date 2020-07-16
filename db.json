@@ -2,6 +2,12 @@
   "winner":[
     {"id": 1,
     "name": "Omar",
-    "nick": "OmarMorales71"}
+    "nick": "OmarMorales71"},
+    {"id": 2,
+    "name": "Valeria",
+    "nick": "ValeriaChida"},
+    {"id": 3,
+    "name": "Dobby",
+    "nick": "Dobby"}
     ]
 }
